@@ -1,5 +1,6 @@
-hanna sherbinina
-36
-2 pets
-$
-
+{
+	"name": "Hanna Sherbinina",
+	"age": 36,
+	"pets": 2,
+	"salary": 2000
+}

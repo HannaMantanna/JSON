@@ -1,4 +1,6 @@
-detective films
-meat dishes
-New Zealand
+{
+	"films": "detective",
+	"food": "meat dishes",
+	"country": "New Zealand"
+}
 
