@@ -1,7 +1,7 @@
 {
   "bug report":
   { 
-    "id": 01,
+    "id": 10,
     "severity": "high",
     "priority": "high",
     "summary": "an error loading",
@@ -15,7 +15,7 @@
             "step_1": "start loading"
           }
       }
-      ]
+      ],
     "expected result": "file is opening"
   }
 }
