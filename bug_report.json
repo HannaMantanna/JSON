@@ -1,3 +1,21 @@
-
-Create a bug report
-01R-Register form-There is no possible to write symbols in ithe field 'Name' 
+{
+  "bug report":
+  { 
+    "id": 01,
+    "severity": "high",
+    "priority": "high",
+    "summary": "an error loading",
+    "description": [
+      { 
+        "discription": "an error loading"
+      },
+      {
+        "steps to reproduce":
+          {
+            "step_1": "start loading"
+          }
+      }
+      ]
+    "expected result": "file is opening"
+  }
+}
